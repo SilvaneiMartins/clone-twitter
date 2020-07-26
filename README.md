@@ -1,5 +1,5 @@
 <h1 align="center">
-    Clone Twiter
+    Clone Twitter
 </h1>
 
 <h4 align="center">
